@@ -12,8 +12,8 @@ public class Teamlead {
 	public static String sriks() {
 		return "Hey Kumar this is Srikanth";
 	}
-  public static void CSEC7()
+        public static void CSEC7()
 	{
 		System.out.println("Hello this is MuraliKrishna");
-  }
+        }
 }
